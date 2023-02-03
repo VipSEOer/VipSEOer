@@ -2,7 +2,7 @@
  * @Author       : ❤ SEOer.Vip
  * @FilePath     : /VipSEOer/VSCode.md
  * @Copyright    : Https://Blog.SEOer.Vip/
- * @Description  : VSCode（Visual Studio Code）使用文档
+ * @Description  : VSCode（Visual Studio Code）使用文档（VSCode@CodeSpace）
 -->
 
 VSCode（Visual Studio Code）使用文档 <https://vscode.dev/> | <https://github.dev/>
@@ -32,7 +32,7 @@ VSCode Extensions <https://marketplace.visualstudio.com/VSCode> | [Visual Studio
 - `Code Runner`                             【代码运行】【✗】
 - `PostCode`                                【代码调试】【✗】
 
-VSCode（Settings.json）自定义配置
+VSCode（Settings.json）自定义配置同步 | 设置同步 -> 配置 -> 选择要同步的内容 -> 全选（✓） | 𝐔𝐈状态（✗）
 ---------------------------------------------------------------------------------------------------
 
 ```json
@@ -66,44 +66,20 @@ VSCode（Settings.json）自定义配置
 }
 ```
 
-VSCode（Keybindings.json）自定义快捷键
+VSCode（Keybindings.json）自定义快捷键同步 | 格式化文档（𝐅𝟗） | 语法补全（𝐂𝐭𝐫𝐥 + 𝐢）
 ---------------------------------------------------------------------------------------------------
 
 ```json
 [
     {
-        "key": "alt+f9",
-        "command": "editor.debug.action.toggleBreakpoint",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "f9",
-        "command": "-editor.debug.action.toggleBreakpoint",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "f9",
         "command": "editor.action.formatDocument",
-        "when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
     },
     {
         "key": "shift+alt+f",
         "command": "-editor.action.formatDocument",
-        "when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
-    },
-    {
-        "key": "ctrl+oem_comma",
-        "command": "-workbench.action.openSettings"
-    },
-    {
-        "key": "ctrl+oem_comma",
-        "command": "editor.action.triggerSuggest",
-        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+space",
-        "command": "-editor.action.triggerSuggest",
-        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
     }
 ]
 ```
