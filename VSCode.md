@@ -18,14 +18,14 @@ VSCode Extensions <https://marketplace.visualstudio.com/VSCode> | [Visual Studio
 - `Chinese (Simplified) Language`           【官方汉化】【✓】
 - `One Dark Pro`                            【主题配色】【✓】
 - `Material Icon Theme`                     【主题图标】【✓】
+- `Rainbow CSV`                             【彩虹高亮】【✓】
 - `Indent Rainbow`                          【彩虹缩进】【✓】
+- `Apache Conf`                             【语法高亮】【✓】
+- `Nginx Conf Hint`                         【语法高亮】【✓】
+- `PHP DEVSENSE`                            【语法补全】【✓】
 - `Path Intellisense`                       【路径补全】【✓】
 - `CSS Class Intellisense`                  【样式补全】【✓】
-- `PHP DEVSENSE`                            【语法补全】【✓】
-- `Nginx Conf`                              【语法高亮】【✓】
-- `Apache Conf`                             【语法高亮】【✓】
-- `Rainbow CSV`                             【语法高亮】【✓】
-- `Markdown All in One - Web`               【语法高亮】【✓】
+- `Markdown All in One - Web`               【语法补全】【✓】
 
 - `koroFileHeader`                          【文档注释】【✗】
 - `Image Preview`                           【图片预览】【✗】
