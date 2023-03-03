@@ -1,12 +1,12 @@
 <!--
- * @Author       : ❤ SEOer.Vip
+ * @Author       : ★ SEOer.Vip ★
  * @FilePath     : /VipSEOer/Windows.md
  * @Copyright    : Https://Blog.SEOer.Vip/
  * @Description  : Windows@ThinkBook 16 G4+ IAP(YX03Z99X)
 -->
 
 Windows@ThinkBook 16 G4+ IAP(YX03Z99X)
-============================================================
+===================================================================================================
 
 - DiskGenius 磁盘分区
     - 快速分区：选择 GPT 格式，ESP / MSR 分区默认设置（C盘：200G）
@@ -26,6 +26,7 @@ Windows@ThinkBook 16 G4+ IAP(YX03Z99X)
     - %SystemRoot%\SoftwareDistribution\ReportingEvents.log
     - %SystemRoot%\SoftwareDistribution\PostRebootEventCache.V2
     - %ProgramData%\USOPrivate\UpdateStore\store.db
+    - %ProgramData%\USOPrivate\UpdateStore\store.bak
 - Windows Defender Clear History
     - %ProgramData%\Microsoft\Windows Defender\Scans\History\Service\DetectionHistory
 - Windows PHP Path | `php -v`
@@ -39,7 +40,7 @@ Windows@ThinkBook 16 G4+ IAP(YX03Z99X)
     - `sj`      `%yyyy%-%MM%-%dd% %HH%:%mm%:%ss%`
 
 Windows CMD ＆ PowerShell
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 - 选项：
     - 光标大小：小(S)
