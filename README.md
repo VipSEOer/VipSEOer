@@ -1,5 +1,5 @@
 <!--
- * @Author       : ❤ SEOer.Vip
+ * @Author       : ★ SEOer.Vip ★
  * @FilePath     : /VipSEOer/README.md
  * @Copyright    : Https://Blog.SEOer.Vip/
  * @Description  : Rock The Code, Are You Ready?
