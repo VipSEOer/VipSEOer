@@ -1,19 +1,19 @@
 <!--
- * @Author       : ❤ SEOer.Vip
+ * @Author       : ★ SEOer.Vip ★
  * @FilePath     : /VipSEOer/VSCode.md
  * @Copyright    : Https://Blog.SEOer.Vip/
  * @Description  : VSCode（Visual Studio Code）使用文档（VSCode@CodeSpace）
 -->
 
 VSCode（Visual Studio Code）使用文档 <https://vscode.dev/> | <https://github.dev/>
-===================================================================================================
+==================================================================================================================
 
 > - Visual Studio Code（简称 VSCode / VSC）是一款免费开源的现代化轻量级代码编辑器
 > - VSCode 支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配、代码片段、代码对比 Diff、Git 等特性
 > - VSCode 支持插件扩展，软件跨平台支持 Win、Mac 以及 Linux，运行流畅，可谓是微软的良心之作……
 
 VSCode Extensions <https://marketplace.visualstudio.com/VSCode> | [Visual Studio Code Web](✓)
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 - `Chinese (Simplified) Language`           【官方汉化】【✓】
 - `One Dark Pro`                            【主题配色】【✓】
@@ -33,7 +33,7 @@ VSCode Extensions <https://marketplace.visualstudio.com/VSCode> | [Visual Studio
 - `PostCode`                                【代码调试】【✗】
 
 VSCode（Settings.json）自定义配置同步 | 设置同步 -> 配置 -> 选择要同步的内容 -> 全选（✓） | 𝐔𝐈状态（✗）
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 ```json
 {
@@ -58,7 +58,7 @@ VSCode（Settings.json）自定义配置同步 | 设置同步 -> 配置 -> 选�
         "filePathColon": "/"
     },
     "fileheader.customMade": {
-        "Author": "❤ SEOer.Vip",
+        "Author": "★ SEOer.Vip ★",
         "FilePath": "Do not edit",
         "Copyright": "Https://Blog.SEOer.Vip/",
         "Description": "Rock The Code, Are You Ready?"
@@ -66,8 +66,8 @@ VSCode（Settings.json）自定义配置同步 | 设置同步 -> 配置 -> 选�
 }
 ```
 
-VSCode（Keybindings.json）自定义快捷键同步 | 格式化文档（𝐅𝟗） | 语法补全（𝐂𝐭𝐫𝐥 + 𝐢）
----------------------------------------------------------------------------------------------------
+VSCode（Keybindings.json）自定义快捷键同步 | 格式化文档（𝐅𝟗） | 语法补全（𝐂𝐭𝐫𝐥 + 𝐢） | 文档注释（𝐂𝐭𝐫𝐥 + 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 + 𝐢）
+------------------------------------------------------------------------------------------------------------------
 
 ```json
 [
